@@ -3,8 +3,8 @@
 .output {
     top: 5%;
     position: absolute;
-    width: 60%;
-    height: 50%;
+    width: 1000px;
+    height: 400px;
     left: 20%;
     right: 20%;
 }
