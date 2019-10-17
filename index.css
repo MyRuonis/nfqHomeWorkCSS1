@@ -1,4 +1,4 @@
-.output {
+.Output {
     top: 5%;
     position: absolute;
     width: 1000px;
@@ -7,7 +7,7 @@
     right: 20%;
 }
 
-.output-atsakymas {
+.Output-atsakymas {
     border-width: 2px 50px 2px 2px;
     border-radius: 5px;
     border-style: solid;
@@ -28,20 +28,20 @@
     margin-left: 5%;
 }
 
-.text--1 {
-    padding-top: 2%;
+.u-bold {
     font-weight: bold;
 }
 
-.text--2 {
+.u-padding {
     padding-top: 1.5%;
 }
 
-.text--email {
+.u-blue {
     color: rgb(14, 90, 255);
+    text-decoration: none;
 }
 
-.output-button {
+.Output-button {
     background-color: #008CBA;
     font-size: 12px;
     padding: 8px 24px;
